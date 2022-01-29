@@ -1,7 +1,7 @@
 {
   "name": "PunsAhoy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Knock knock jokes time!",
   "main": "index.js",
   "type": "module",
   "repository": {
@@ -10,7 +10,8 @@
   },
 
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin":"./index.js",
   "keywords": [],
